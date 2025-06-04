@@ -1,0 +1,3 @@
+npm create vite@latest gratta-e-premi-frontend -- --template react
+cd gratta-e-premi-frontend
+npm install
